@@ -70,7 +70,7 @@ Future projects will require you to decide on the entire structure of your techn
 [Project Overview Guidelines](./project-overview-guidelines.md) have been included for you in this repository. Some 
 recommendations are geared toward future projects (which will include modeling and span multiple notebooks), but generally these are great recommendations.
 
-In addition, the [Readme Template] provides examples and advice for writing a problem statement and structuring your readme file. Note, in 
+In addition, the [Readme Template](./readme_template.md)  provides examples and advice for writing a problem statement and structuring your readme file. Note, in 
 order for your readme to automatically display in github, it must be named `README.md`. So, before submitting, make sure to delete this one and replace it with your own!
 
 Here's a link on [how to give a good lightning talk](https://www.semrush.com/blog/16-ways-to-prepare-for-a-lightning-talk/), which provides some good recommendations for short presentations.
