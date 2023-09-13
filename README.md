@@ -67,7 +67,11 @@ Future projects will require you to decide on the entire structure of your techn
 
 ### Style Guide and Suggested Resources
 
-[Tim Dwyer](https://www.linkedin.com/in/jtimdwyer/) (former DSI student and TA) put together [this style guide](./tim_style_guide.md). Some recommendations are geared toward future projects (which will include modeling and span multiple notebooks), but generally these are great recommendations.
+[Project Overview Guidelines](./project-overview-guidelines.md) have been included for you in this repository. Some 
+recommendations are geared toward future projects (which will include modeling and span multiple notebooks), but generally these are great recommendations.
+
+In addition, the [Readme Template] provides examples and advice for writing a problem statement and structuring your readme file. Note, in 
+order for your readme to automatically display in github, it must be named `README.md`. So, before submitting, make sure to delete this one and replace it with your own!
 
 Here's a link on [how to give a good lightning talk](https://www.semrush.com/blog/16-ways-to-prepare-for-a-lightning-talk/), which provides some good recommendations for short presentations.
 
@@ -95,7 +99,7 @@ Your technical report will be hosted on Github Enterprise. Make sure it includes
 
 **You must be ready to present your findings by the start of class on (insert date).**
 
-- **Must be within time limit - not more than 5 minutes.**
+- **Must be within time limit - not more than 5-7 minutes.**
 - Use Google Slides or some other visual aid (Keynote, Powerpoint, etc).
 - Consider the audience. Assume you are presenting to a non-technical audience.
 - Start with the **data science problem**.
